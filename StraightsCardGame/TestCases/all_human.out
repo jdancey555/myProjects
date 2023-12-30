@@ -1,0 +1,44 @@
+Is Player 1 a human (h) or a computer (c)?
+Is Player 2 a human (h) or a computer (c)?
+Is Player 3 a human (h) or a computer (c)?
+Is Player 4 a human (h) or a computer (c)?
+A new round begins. It's Player2's turn to play.
+Cards on the table:
+Clubs:
+Diamonds:
+Hearts:
+Spades:
+Your hand: KH 3D JS AC JD 4S KS 5H 2D 4H 7S 3S 8H
+Legal plays: 7S
+Player2 plays 7S.
+Cards on the table:
+Clubs:
+Diamonds:
+Hearts:
+Spades: 7
+Your hand: 4C 5C 5S KD 8S 9S QS JH JC QH 5D 6D TD
+Legal plays: 8S
+Player3 plays 8S.
+Cards on the table:
+Clubs:
+Diamonds:
+Hearts:
+Spades: 7 8
+Your hand: 9H 6H KC 6S 2C 2H QC 9C QD 7H 7D 8C 8D
+Legal plays: 6S 7H 7D
+Player4 plays 7H.
+Cards on the table:
+Clubs:
+Diamonds:
+Hearts: 7
+Spades: 7 8
+Your hand: AD AS 7C 2S AH 9D 4D 3H 6C TC 3C TS TH
+Legal plays: 7C
+Player1 plays 7C.
+Cards on the table:
+Clubs: 7
+Diamonds:
+Hearts: 7
+Spades: 7 8
+Your hand: KH 3D JS AC JD 4S KS 5H 2D 4H 3S 8H
+Legal plays: 8H

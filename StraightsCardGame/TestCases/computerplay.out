@@ -1,0 +1,647 @@
+Is Player 1 a human (h) or a computer (c)?
+Is Player 2 a human (h) or a computer (c)?
+Is Player 3 a human (h) or a computer (c)?
+Is Player 4 a human (h) or a computer (c)?
+A new round begins. It's Player2's turn to play.
+Cards on the table:
+Clubs:
+Diamonds:
+Hearts:
+Spades:
+Player2 plays 7S.
+Cards on the table:
+Clubs:
+Diamonds:
+Hearts:
+Spades: 7
+Player3 plays 8S.
+Cards on the table:
+Clubs:
+Diamonds:
+Hearts:
+Spades: 7 8
+Player4 plays 7H.
+Cards on the table:
+Clubs:
+Diamonds:
+Hearts: 7
+Spades: 7 8
+Player1 plays 7C.
+Cards on the table:
+Clubs: 7
+Diamonds:
+Hearts: 7
+Spades: 7 8
+Player2 plays 8H.
+Cards on the table:
+Clubs: 7
+Diamonds:
+Hearts: 7 8
+Spades: 7 8
+Player3 plays 9S.
+Cards on the table:
+Clubs: 7
+Diamonds:
+Hearts: 7 8
+Spades: 7 8 9
+Player4 plays 7D.
+Cards on the table:
+Clubs: 7
+Diamonds: 7
+Hearts: 7 8
+Spades: 7 8 9
+Player1 plays 6C.
+Cards on the table:
+Clubs: 7 6
+Diamonds: 7
+Hearts: 7 8
+Spades: 7 8 9
+Player2 discards KH.
+Cards on the table:
+Clubs: 7 6
+Diamonds: 7
+Hearts: 7 8
+Spades: 7 8 9
+Player3 plays 5C.
+Cards on the table:
+Clubs: 7 6 5
+Diamonds: 7
+Hearts: 7 8
+Spades: 7 8 9
+Player4 plays 8D.
+Cards on the table:
+Clubs: 7 6 5
+Diamonds: 7 8
+Hearts: 7 8
+Spades: 7 8 9
+Player1 plays 9D.
+Cards on the table:
+Clubs: 7 6 5
+Diamonds: 7 8 9
+Hearts: 7 8
+Spades: 7 8 9
+Player2 discards 3D.
+Cards on the table:
+Clubs: 7 6 5
+Diamonds: 7 8 9
+Hearts: 7 8
+Spades: 7 8 9
+Player3 plays 4C.
+Cards on the table:
+Clubs: 7 6 5 4
+Diamonds: 7 8 9
+Hearts: 7 8
+Spades: 7 8 9
+Player4 plays 9H.
+Cards on the table:
+Clubs: 7 6 5 4
+Diamonds: 7 8 9
+Hearts: 7 8 9
+Spades: 7 8 9
+Player1 plays 3C.
+Cards on the table:
+Clubs: 7 6 5 4 3
+Diamonds: 7 8 9
+Hearts: 7 8 9
+Spades: 7 8 9
+Player2 discards JS.
+Cards on the table:
+Clubs: 7 6 5 4 3
+Diamonds: 7 8 9
+Hearts: 7 8 9
+Spades: 7 8 9
+Player3 plays TD.
+Cards on the table:
+Clubs: 7 6 5 4 3
+Diamonds: 7 8 9 T
+Hearts: 7 8 9
+Spades: 7 8 9
+Player4 plays 2C.
+Cards on the table:
+Clubs: 7 6 5 4 3 2
+Diamonds: 7 8 9 T
+Hearts: 7 8 9
+Spades: 7 8 9
+Player1 plays TH.
+Cards on the table:
+Clubs: 7 6 5 4 3 2
+Diamonds: 7 8 9 T
+Hearts: 7 8 9 T
+Spades: 7 8 9
+Player2 plays AC.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T
+Hearts: 7 8 9 T
+Spades: 7 8 9
+Player3 plays JH.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T
+Hearts: 7 8 9 T J
+Spades: 7 8 9
+Player4 discards 6H.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T
+Hearts: 7 8 9 T J
+Spades: 7 8 9
+Player1 plays TS.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T
+Hearts: 7 8 9 T J
+Spades: 7 8 9 T
+Player2 plays JD.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J
+Hearts: 7 8 9 T J
+Spades: 7 8 9 T
+Player3 plays KD.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K
+Hearts: 7 8 9 T J
+Spades: 7 8 9 T
+Player4 plays QD.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J
+Spades: 7 8 9 T
+Player1 discards AD.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J
+Spades: 7 8 9 T
+Player2 discards 4S.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J
+Spades: 7 8 9 T
+Player3 plays QH.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player4 discards KC.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player1 discards AS.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player2 discards KS.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player3 discards 5S.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player4 discards 6S.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player1 discards 2S.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player2 discards 5H.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player3 discards QS.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player4 discards 2H.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player1 discards AH.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player2 discards 2D.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player3 discards JC.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player4 discards QC.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player1 discards 4D.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player2 discards 4H.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player3 discards 5D.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player4 discards 9C.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player1 discards 3H.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player2 discards 3S.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player3 discards 6D.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player4 discards 8C.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player1 discards TC.
+Player1's discards: AD AS 2S AH 4D 3H TC.
+Player1's score: 22 + 0 = 22.
+Player2's discards: KH 3D JS 4S KS 5H 2D 4H 3S.
+Player2's score: 58 + 0 = 58.
+Player3's discards: 5S QS JC 5D 6D.
+Player3's score: 39 + 0 = 39.
+Player4's discards: 6H KC 6S 2H QC 9C 8C.
+Player4's score: 56 + 0 = 56.
+A new round begins. It's Player2's turn to play.
+Cards on the table:
+Clubs:
+Diamonds:
+Hearts:
+Spades:
+Player2 plays 7S.
+Cards on the table:
+Clubs:
+Diamonds:
+Hearts:
+Spades: 7
+Player3 plays 8S.
+Cards on the table:
+Clubs:
+Diamonds:
+Hearts:
+Spades: 7 8
+Player4 plays 7H.
+Cards on the table:
+Clubs:
+Diamonds:
+Hearts: 7
+Spades: 7 8
+Player1 plays 7C.
+Cards on the table:
+Clubs: 7
+Diamonds:
+Hearts: 7
+Spades: 7 8
+Player2 plays 8H.
+Cards on the table:
+Clubs: 7
+Diamonds:
+Hearts: 7 8
+Spades: 7 8
+Player3 plays 9S.
+Cards on the table:
+Clubs: 7
+Diamonds:
+Hearts: 7 8
+Spades: 7 8 9
+Player4 plays 7D.
+Cards on the table:
+Clubs: 7
+Diamonds: 7
+Hearts: 7 8
+Spades: 7 8 9
+Player1 plays 6C.
+Cards on the table:
+Clubs: 7 6
+Diamonds: 7
+Hearts: 7 8
+Spades: 7 8 9
+Player2 discards KH.
+Cards on the table:
+Clubs: 7 6
+Diamonds: 7
+Hearts: 7 8
+Spades: 7 8 9
+Player3 plays 5C.
+Cards on the table:
+Clubs: 7 6 5
+Diamonds: 7
+Hearts: 7 8
+Spades: 7 8 9
+Player4 plays 8D.
+Cards on the table:
+Clubs: 7 6 5
+Diamonds: 7 8
+Hearts: 7 8
+Spades: 7 8 9
+Player1 plays 9D.
+Cards on the table:
+Clubs: 7 6 5
+Diamonds: 7 8 9
+Hearts: 7 8
+Spades: 7 8 9
+Player2 discards 3D.
+Cards on the table:
+Clubs: 7 6 5
+Diamonds: 7 8 9
+Hearts: 7 8
+Spades: 7 8 9
+Player3 plays 4C.
+Cards on the table:
+Clubs: 7 6 5 4
+Diamonds: 7 8 9
+Hearts: 7 8
+Spades: 7 8 9
+Player4 plays 9H.
+Cards on the table:
+Clubs: 7 6 5 4
+Diamonds: 7 8 9
+Hearts: 7 8 9
+Spades: 7 8 9
+Player1 plays 3C.
+Cards on the table:
+Clubs: 7 6 5 4 3
+Diamonds: 7 8 9
+Hearts: 7 8 9
+Spades: 7 8 9
+Player2 discards JS.
+Cards on the table:
+Clubs: 7 6 5 4 3
+Diamonds: 7 8 9
+Hearts: 7 8 9
+Spades: 7 8 9
+Player3 plays TD.
+Cards on the table:
+Clubs: 7 6 5 4 3
+Diamonds: 7 8 9 T
+Hearts: 7 8 9
+Spades: 7 8 9
+Player4 plays 2C.
+Cards on the table:
+Clubs: 7 6 5 4 3 2
+Diamonds: 7 8 9 T
+Hearts: 7 8 9
+Spades: 7 8 9
+Player1 plays TH.
+Cards on the table:
+Clubs: 7 6 5 4 3 2
+Diamonds: 7 8 9 T
+Hearts: 7 8 9 T
+Spades: 7 8 9
+Player2 plays AC.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T
+Hearts: 7 8 9 T
+Spades: 7 8 9
+Player3 plays JH.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T
+Hearts: 7 8 9 T J
+Spades: 7 8 9
+Player4 discards 6H.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T
+Hearts: 7 8 9 T J
+Spades: 7 8 9
+Player1 plays TS.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T
+Hearts: 7 8 9 T J
+Spades: 7 8 9 T
+Player2 plays JD.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J
+Hearts: 7 8 9 T J
+Spades: 7 8 9 T
+Player3 plays KD.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K
+Hearts: 7 8 9 T J
+Spades: 7 8 9 T
+Player4 plays QD.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J
+Spades: 7 8 9 T
+Player1 discards AD.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J
+Spades: 7 8 9 T
+Player2 discards 4S.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J
+Spades: 7 8 9 T
+Player3 plays QH.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player4 discards KC.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player1 discards AS.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player2 discards KS.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player3 discards 5S.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player4 discards 6S.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player1 discards 2S.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player2 discards 5H.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player3 discards QS.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player4 discards 2H.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player1 discards AH.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player2 discards 2D.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player3 discards JC.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player4 discards QC.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player1 discards 4D.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player2 discards 4H.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player3 discards 5D.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player4 discards 9C.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player1 discards 3H.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player2 discards 3S.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player3 discards 6D.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player4 discards 8C.
+Cards on the table:
+Clubs: 7 6 5 4 3 2 A
+Diamonds: 7 8 9 T J K Q
+Hearts: 7 8 9 T J Q
+Spades: 7 8 9 T
+Player1 discards TC.
+Player1's discards: AD AS 2S AH 4D 3H TC.
+Player1's score: 22 + 22 = 44.
+Player2's discards: KH 3D JS 4S KS 5H 2D 4H 3S.
+Player2's score: 58 + 58 = 116.
+Player3's discards: 5S QS JC 5D 6D.
+Player3's score: 39 + 39 = 78.
+Player4's discards: 6H KC 6S 2H QC 9C 8C.
+Player4's score: 56 + 56 = 112.
+Player1 wins!
